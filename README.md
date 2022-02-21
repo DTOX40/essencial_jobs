@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Nome do projeto essencial jobs é um sistema para preenchimento de vagas como banco de dados esta usando o banco postgres
 
-Things you may want to cover:
+* Dependencias rails 6.0.4
 
-* Ruby version
+* ruby 2.7.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ......
